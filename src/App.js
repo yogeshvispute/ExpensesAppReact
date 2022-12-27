@@ -7,7 +7,7 @@ const App = () => {
   const DUMMY_EXPENSES = [
     {
       id: "e1",
-      title: "Toilet Paper",
+      title: "New Paper Agency",
       amount: 94.12,
       date: new Date(2020, 7, 14),
     },
